@@ -1,6 +1,6 @@
 Original -> OS Changes:<br>
 <br>
-CloverIcons is the default set of Icons
+CloverIcons is the default set of Icons<br>
 SYS:Storage/Software contains some oridnary software at a little sum not installed<br>
 No Browser is installed by AWeb is in the folder Storage/Software<br>
 WBStartUp nearly complete updated to AmiNet.net latest point of release<br>
