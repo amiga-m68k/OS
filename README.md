@@ -2,6 +2,6 @@
 Amiga OS 3.9-BoingBag1-4<br>
 <br>
 The non-profit Edition for users and developers<br>
-Fresh & minimal any networking<br>
+Fresh, custom & minimal plus networking<br>
 <br>
 Information continues!<br>
