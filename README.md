@@ -4,7 +4,7 @@ Amiga OS 3.9-BoingBag1-4<br>
 The non-profit Edition for users and developers<br>
 Fresh, custom & minimal plus networking<br>
 <br>
-Release comes later and Information continues!<br>
+Release is some hours available<br>
 <br>
 <br>
 This is a stale repository for minimal long-long time<br>
