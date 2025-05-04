@@ -12,3 +12,4 @@ Director Opus 4 is integrated, by not wanted simple deletetion of the folder rem
 Small updates in new librarys and medium existing updated librarys via AmiNet.net latest release<br>
 Completed white original Amiga mouse cursor color change and the standard Shell is ViNCeD (setuped)<br>
 Some Details and Settings are changed<br>
+SimpleFind is included and not working at some more librarys are needed!
