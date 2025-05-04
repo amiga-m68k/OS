@@ -2,6 +2,8 @@ Original -> OS Changes:<br>
 <br>
 CloverIcons is the default set of Icons<br>
 SYS:Storage/Software contains some ordinary software at a little sum not installed<br>
+MMU librarys and tools integrated and disabled (MMULib)<br>
+Picasso96 arc is located at Storage/Software (not integrated)<br>
 No Browser is installed by AWeb is in the folder Storage/Software<br>
 WBStartUp nearly complete updated to AmiNet.net latest point of release<br>
 PowerWindowsNG include for some special AmigaOS/3.9 features, like the most known feature of window out of desktop moveing<br>
