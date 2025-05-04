@@ -1,5 +1,6 @@
 # Amiga/OS 3.9 User/Developer Edition
 Amiga OS 3.9-BoingBag1-4<br>
+#development #support<br>
 <br>
 The non-profit Edition for users and developers<br>
 Raw, minimal & smart + networking<br>
